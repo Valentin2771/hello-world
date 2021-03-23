@@ -18,3 +18,11 @@
 #section1{
   background-color: cornflowerblue;
 }
+
+#section3{
+  padding:1em;
+  margin:0 auto;
+  border:2px black solid;
+  width:99%;
+  background-color: lightgray;
+}

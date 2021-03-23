@@ -3,7 +3,7 @@
   box-sizing: border-box;
 }
 
-#section1, #section2{
+.half {
   padding:1em;
   margin:.5%;
   border:2px black solid;
@@ -11,18 +11,21 @@
   width:49%
 }
 
-#section2{
-  background-color: aqua;
-}
-
-#section1{
-  background-color: cornflowerblue;
-}
-
-#section3{
+.whole{
   padding:1em;
   margin:0 auto;
   border:2px black solid;
   width:99%;
-  background-color: lightgray;
+}
+
+#section1, #section4{
+  background-color: cornflowerblue;
+}
+
+#section2, #section5{
+  background-color: aqua;
+}
+
+#section3, #section6{
+  background-color: sandybrown;
 }

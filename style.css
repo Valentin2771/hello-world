@@ -1,3 +1,20 @@
 *{
-	font-family: sans-serif;
+  font-family: sans-serif;
+  box-sizing: border-box;
+}
+
+#section1, #section2{
+  padding:1em;
+  margin:.5%;
+  border:2px black solid;
+  display:inline-block;
+  width:49%
+}
+
+#section2{
+  background-color: aqua;
+}
+
+#section1{
+  background-color: cornflowerblue;
 }

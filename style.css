@@ -3,6 +3,9 @@
   box-sizing: border-box;
 }
 
+h1{
+  text-align: center;
+}
 .half {
   padding:1em;
   margin:.5%;
@@ -13,7 +16,7 @@
 
 .whole{
   padding:1em;
-  margin:0 auto;
+  margin:.5% auto;
   border:2px black solid;
   width:99%;
 }
